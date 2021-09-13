@@ -32,9 +32,9 @@ var ball1, ball2, ball3;
 function setup() {
   createCanvas(400, 300);
 
-  ball1 = new Ball(30, 200, 50, 50, 5, 5, "red");
-  ball2 = new Ball(120, 210, 50, 50, 3, 3, "blue");
-  ball3 = new Ball(200, 150, 50, 50, 1, 1, "green");
+  ball1 = new Ball(30, 200, 50, 50, 5, 5, "pink");
+  ball2 = new Ball(120, 210, 50, 50, 3, 3, "purple");
+  ball3 = new Ball(200, 150, 50, 50, 1, 1, "yellow");
 
 }
 
